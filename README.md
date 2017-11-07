@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3, 2017 
 
 ### Student Name:  
-(First and Last Name)
+Jtierra Jones 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating a multiple image app display.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jj16e.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learning how to properly  use document nodes 
+2. Create a 3 image page and a 5 image change
+3. Review of the differnet kinds of nodes. 
